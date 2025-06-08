@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(100, 148, 148);
+}
+
+ul.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+/* a.page-link.active{
+box-shadow: none;
+}
+
+.page-item.active{
+    background-color: aliceblue;
+    border-color: aliceblue;
+}
+
+.active>.page-link{
+    background-color: aliceblue;
+} */
